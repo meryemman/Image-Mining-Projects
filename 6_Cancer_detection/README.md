@@ -4,7 +4,7 @@
 
 <img src="NIDCD-ASL-hands-2014.jpg" align="center" />
 
-[**Link to dataset:**] for project [**6_Cancer_detection**](6_Cancer_detection) on [Google Drive]([https://drive.google.com/drive/folders/1LvIEXT9t7zMoqLkWqWvRRlmtZCOp6WDf?usp=sharing])
+[**Link to dataset:**] for project **6_Cancer_detection** on [Google Drive]([https://drive.google.com/drive/folders/1LvIEXT9t7zMoqLkWqWvRRlmtZCOp6WDf?usp=sharing])
 
 ***
 
