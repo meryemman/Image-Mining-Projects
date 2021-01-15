@@ -1,9 +1,9 @@
 # Image_Mining
-ACADEMIC PROJECTS
+
+**ACADEMIC PROJECTS**
 
 > All about Images, Clustering , Classification , Regression , CBIR ....
 
- 
 [Data link](https://drive.google.com/drive/folders/1pn7NWNKsRnxkzIJboOYS-92qYaFqLNuW?usp=sharing) for all project on [Google Drive](https://drive.google.com/drive/folders/1pn7NWNKsRnxkzIJboOYS-92qYaFqLNuW?usp=sharing)
 ***
 
